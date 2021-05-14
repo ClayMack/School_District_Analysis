@@ -35,8 +35,8 @@ Updated:
 ![Updated District Summary](https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/Updated%20District%20Summary.png "This is a screenshot image.")
     
     
-*    How is the school summary affected?
-    *  The change here is minimal. Because we only removed the Thomas Highschool 9th grade score, the school size and buget data did not change. The only observable difference is a lowering of the math and reading average scores and percent passing for both. Because we only removed data for one of the four Thomas Highschool grades, the recorded change was minimal. Even though the change was small, it was shifted lower. 
+* How is the school summary affected?
+    * The change here is minimal. Because we only removed the Thomas Highschool 9th grade score, the school size and buget data did not change. The only observable difference is a lowering of the math and reading average scores and percent passing for both. Because we only removed data for one of the four Thomas Highschool grades, the recorded change was minimal. Even though the change was small, it was shifted lower. 
     
 Original:
 
@@ -47,7 +47,7 @@ Updated:
 ![Updated School Summary](https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/Updated%20School%20Summary.png "This is a screenshot image.")
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
- * the averages and percent passing scores drop lower
+   * the averages and percent passing scores drop lower
     
 #### How does replacing the ninth-grade scores affect the following:
 
