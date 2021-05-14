@@ -13,18 +13,18 @@ fds gfds gfd
 * How is the district summary affected?
     * words 
     
-[Markdown Live Preview](https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/District%20Summary.png).
+[District Summary](https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/District%20Summary.png)
 
-[Markdown Live Preview](https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/Updated%20District%20Summary.png).
+[Updated District Summary](https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/Updated%20District%20Summary.png)
     
     
 *    How is the school summary affected?
     * words
     
     
-[Markdown Live Preview](https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/School%20Summary.png).
+[School Summary](https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/School%20Summary.png).
 
-[Markdown Live Preview](https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/Updated%20School%20Summary.png).
+[Updated School Summary](https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/Updated%20School%20Summary.png).
 
 *    How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
     * words
