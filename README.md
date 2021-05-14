@@ -12,9 +12,11 @@ fds gfds gfd
 
 * How is the district summary affected?
     * words 
-    
+
+Original:
 ![District Summary](https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/District%20Summary.png "This is a screenshot image.")
 
+Updated:
 ![Updated District Summary](https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/Updated%20District%20Summary.png "This is a screenshot image.")
     
     
