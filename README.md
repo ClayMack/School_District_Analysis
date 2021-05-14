@@ -57,17 +57,9 @@ Updated:
 
 
 
-## Images
-
-![Test.](/image/sample.png 
-"This is a sample image.Test")
 
 
 
 
 
 
-
-[Markdown Live Preview](https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/School%20Summary.png).
-
-[Markdown Live Preview](https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/Updated%20School%20Summary.png).
