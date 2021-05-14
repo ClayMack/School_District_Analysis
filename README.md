@@ -47,9 +47,8 @@ Updated:
 
 ![Updated School Summary](https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/Updated%20School%20Summary.png "This is a screenshot image.")
 
-*    How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-
-    * the averages and percent passing scores drop lower
+* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+ * the averages and percent passing scores drop lower
     
 #### How does replacing the ninth-grade scores affect the following:
 
