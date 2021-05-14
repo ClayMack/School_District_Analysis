@@ -23,7 +23,6 @@ The school board noticed the data shows evidence of academic dishonesty; specifi
 ## Results:
 
 * How is the district summary affected?
-
     * The district summary is relatively unchanged. Because the Thomas Highschool 9th grade scores were dropped, the averages for math and reading, as well as the percent passing, lowered slightly.    
 
 
