@@ -28,10 +28,13 @@ Updated:
 *    How is the school summary affected?
     * words
     
-    
-[School Summary](https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/School%20Summary.png).
+Original:
 
-[Updated School Summary](https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/Updated%20School%20Summary.png).
+![School Summary](https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/School%20Summary.png "This is a screenshot image.")
+
+Updated:
+
+![Updated School Summary](https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/Updated%20School%20Summary.png "This is a screenshot image.")
 
 *    How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
     * words
