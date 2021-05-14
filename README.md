@@ -24,7 +24,7 @@ The school board noticed the data shows evidence of academic dishonesty; specifi
 
 * How is the district summary affected?
 
- * The district summary is relatively unchanged. Because the Thomas Highschool 9th grade scores were dropped, the averages for math and reading, as well as the percent passing, lowered slightly.    
+    * The district summary is relatively unchanged. Because the Thomas Highschool 9th grade scores were dropped, the averages for math and reading, as well as the percent passing, lowered slightly.    
 
 
 Original:
@@ -37,7 +37,7 @@ Updated:
     
     
 *    How is the school summary affected?
- *  The change here is minimal. Because we only removed the Thomas Highschool 9th grade score, the school size and buget data did not change. The only observable difference is a lowering of the math and reading average scores and percent passing for both. Because we only removed data for one of the four Thomas Highschool grades, the recorded change was minimal. Even though the change was small, it was shifted lower. 
+    *  The change here is minimal. Because we only removed the Thomas Highschool 9th grade score, the school size and buget data did not change. The only observable difference is a lowering of the math and reading average scores and percent passing for both. Because we only removed data for one of the four Thomas Highschool grades, the recorded change was minimal. Even though the change was small, it was shifted lower. 
     
 Original:
 
