@@ -14,10 +14,10 @@ fds gfds gfd
     * words 
     
 [District Summary]
-(https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/District%20Summary.png)
+(https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/District%20Summary.png "This is a screenshot image."
 
 [Updated District Summary]
-(https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/Updated%20District%20Summary.png)
+(https://github.com/ClayMack/School_District_Analysis/blob/main/Resources/Screenshots/Updated%20District%20Summary.png "This is a screenshot image.")
     
     
 *    How is the school summary affected?
