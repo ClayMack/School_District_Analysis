@@ -2,9 +2,9 @@
 
 * Use Jupyter Notebooks
 
-* Use Python and Pandas library to analyze school distrct data 
+* Use Python and Pandas library to analyze school district data 
 
-* Track school performance based on key metrics to aid school board budgetary decicions 
+* Track school performance based on key metrics to aid school board budgetary decisions 
 
 
 
@@ -14,17 +14,17 @@
 * load data in csv file.
 * Clean data for missing values
 * Merge school and student datasets into one complete dataset
-* Create dataframes to calculate data metrics using functions
-* Create datatables for trend analysis
+* Create data frames to calculate data metrics using functions
+* Create data tables for trend analysis
 
 ## Challenge Objective:
-The school board noticed the data shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. The board needs to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once the math and reading scores have been replaced, the school district needs the analysis repeated. s.
+The school board noticed the data shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. The board needs to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once the math and reading scores have been replaced, the school district needs the analysis repeated.
 
 ## Results:
 
 * How is the district summary affected?
 
- * The district summary is relativly unchanged. Because the Thomas Highscool 9th grade scores were dropped, the averages for math and reading, as well as the percent passing, lowered slightly.    
+ * The district summary is relatively unchanged. Because the Thomas Highschool 9th grade scores were dropped, the averages for math and reading, as well as the percent passing, lowered slightly.    
 
 
 Original:
@@ -52,19 +52,15 @@ Updated:
     
 #### How does replacing the ninth-grade scores affect the following:
 
-*    Scores by school spending
-    * words
-*    Scores by school size
-    * words
-*    Scores by school type
-    * words
+
+When we remove the scores, we do see changes in the scores based off of school spending, school size, and school type, but there is no appreciable change here because we are only omitting a small portion of the data. 
 
 
 
 
 ## Summary:
 
-
+After removing the scores, the resulting analysis indicates that the original data may not be fradulent. Had there been fradulent data, the results would indicate a wider variance then what is there.
 
 
 
